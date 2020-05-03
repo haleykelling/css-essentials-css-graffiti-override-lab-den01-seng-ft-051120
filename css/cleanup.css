@@ -19,10 +19,10 @@
   display: none;
 }
 
-div.parent div > #tag-7.slick {
+div#wall div.parent >> #tag-6 {
   display: none;
 }
 
-#tag-7 .slick {
+body div#wall div.parent div > #tag-7.slick {
   display: none;
 }
